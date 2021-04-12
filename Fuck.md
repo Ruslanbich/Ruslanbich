@@ -1,2 +1,2 @@
-<p>Typo chort<\p>
+<p>Typo chort</p>
 
