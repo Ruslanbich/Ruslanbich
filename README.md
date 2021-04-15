@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 <a href="
 file:///storage/emulated/0/%D0%92%D1%81%D0%B5%20%D1%82%D0%B5%D0%B3%D0%B8%20HTML.html">Ссылка</a>
+<a href="https://ruslanbich.github.io/Death-Note/">Ссылка</a>
